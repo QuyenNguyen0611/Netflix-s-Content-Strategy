@@ -28,6 +28,6 @@ Q6: How do release weekdays affect viewership patterns?
 - Delivered insights through clear visualizations and structured reporting.
 
 ## Report & Code
-- Code is available here
+- Code is available [here](https://github.com/QuyenNguyen0611/Netflix-s-Content-Strategy/blob/main/Analyzing_Netflix's_Content_Strategy_Using_Python.ipynb)
 - View the PDF Report [here](https://github.com/QuyenNguyen0611/Netflix-s-Content-Strategy/blob/main/Netflix's%20Content%20Strategy.pdf)
 
